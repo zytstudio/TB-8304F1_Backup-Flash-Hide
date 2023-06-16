@@ -352,3 +352,4 @@ reboot
 20. [How to reset password on Lenovo TB-8304F1 - Lenovo - YouTube](https://www.youtube.com/watch?v=b7oYbMZidAc)
 21. https://www.bilibili.com/video/BV1QS4y1u7mg
 22. [Lenovo TB-8304F Flash File (Stock Firmware Guide) (getdroidtips.com)](https://www.getdroidtips.com/lenovo-tb-8304f-flash-file-stock-firmware-guide/)
+23. [(GUIDE) Lenovo Tab 8 (Lenovo TB-8304F1) Backup boot.img Guide | XDA Forums (xda-developers.com)](https://forum.xda-developers.com/t/guide-lenovo-tab-8-lenovo-tb-8304f1-backup-boot-img-guide.4291907/)
