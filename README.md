@@ -313,20 +313,20 @@ reboot
 
 ## 相关文件下载链接
 
-	- 合集：[Index of /tablet-crack/ (zytstudiobg.top)](http://zytstudiobg.top:8012/tablet-crack/)
-	- SP Flash Tool：[SP Flash Tool for Windows (all versions) (spflashtools.com)](https://spflashtools.com/category/windows)
-	- `MTK`刷机驱动：[Mediatek_Driver_Auto_Installer_v1.1352.zip - Android Data Host](https://androiddatahost.com/276a2)
-	- 固件包：[Lenovo Tab E8 TB-8304F1 Stock Firmware ROM (Flash File) (firmwarefile.com)](https://firmwarefile.com/lenovo-tab-e8-tb-8304f1)
-	- `ADB`驱动/和工具：[玩机资源合集 (jamcz.com)](http://wanji.jamcz.com/)
-	- Magisk：[Releases · topjohnwu/Magisk (github.com)](https://github.com/topjohnwu/Magisk/releases)
-	- DreamLand：[Releases · canyie/Dreamland (github.com)](https://github.com/canyie/Dreamland/releases)
-	- DreamLand Manager：[Releases · canyie/DreamlandManager (github.com)](https://github.com/canyie/DreamlandManager/releases)
-	- Riru：[Releases · RikkaApps/Riru (github.com)](https://github.com/RikkaApps/Riru/releases)
-	- Riru - MomoHider：[canyie/Riru-MomoHider: A Riru module tries to make Magisk more hidden. (github.com)](https://github.com/canyie/Riru-MomoHider)
-	- Xposed Edge Pro（解锁版）：[【xposed】Xposed edge pro 8.0.1 专业版 - 果核剥壳 (ghxi.com)](https://www.ghxi.com/xpedge.html)
-	- Universal GMS Doze：[Releases · gloeyisk/universal-gms-doze (github.com)](https://github.com/gloeyisk/universal-gms-doze/releases)
-	- Universal SafetyNet Fix：[Releases · kdrag0n/safetynet-fix (github.com)](https://github.com/kdrag0n/safetynet-fix/releases)
-	- 辅立码课（官方版）：[下载辅立码课APP (fuulea.com)](http://app.fuulea.com/)
+- 合集：[Index of /tablet-crack/ (zytstudiobg.top)](http://zytstudiobg.top:8012/tablet-crack/)
+- SP Flash Tool：[SP Flash Tool for Windows (all versions) (spflashtools.com)](https://spflashtools.com/category/windows)
+- `MTK`刷机驱动：[Mediatek_Driver_Auto_Installer_v1.1352.zip - Android Data Host](https://androiddatahost.com/276a2)
+- 固件包：[Lenovo Tab E8 TB-8304F1 Stock Firmware ROM (Flash File) (firmwarefile.com)](https://firmwarefile.com/lenovo-tab-e8-tb-8304f1)
+- `ADB`驱动/和工具：[玩机资源合集 (jamcz.com)](http://wanji.jamcz.com/)
+- Magisk：[Releases · topjohnwu/Magisk (github.com)](https://github.com/topjohnwu/Magisk/releases)
+- DreamLand：[Releases · canyie/Dreamland (github.com)](https://github.com/canyie/Dreamland/releases)
+- DreamLand Manager：[Releases · canyie/DreamlandManager (github.com)](https://github.com/canyie/DreamlandManager/releases)
+- Riru：[Releases · RikkaApps/Riru (github.com)](https://github.com/RikkaApps/Riru/releases)
+- Riru - MomoHider：[canyie/Riru-MomoHider: A Riru module tries to make Magisk more hidden. (github.com)](https://github.com/canyie/Riru-MomoHider)
+- Xposed Edge Pro（解锁版）：[【xposed】Xposed edge pro 8.0.1 专业版 - 果核剥壳 (ghxi.com)](https://www.ghxi.com/xpedge.html)
+- Universal GMS Doze：[Releases · gloeyisk/universal-gms-doze (github.com)](https://github.com/gloeyisk/universal-gms-doze/releases)
+- Universal SafetyNet Fix：[Releases · kdrag0n/safetynet-fix (github.com)](https://github.com/kdrag0n/safetynet-fix/releases)
+- 辅立码课（官方版）：[下载辅立码课APP (fuulea.com)](http://app.fuulea.com/)
 
 ## 参考资料
 
